@@ -11,10 +11,10 @@ sleep(2)
 
 # 2a. dien thong tin vao user, pass
 txtUser = browser.find_element("name", "maSV")
-txtUser.send_keys("2111514110113")
+txtUser.send_keys("username")
 
 txtPass = browser.find_element("name", "pw")
-txtPass.send_keys("001239")
+txtPass.send_keys("password")
 
 txtPass.send_keys(Keys.ENTER)
 sleep(2)
