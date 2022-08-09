@@ -1,7 +1,7 @@
 # school-web-crawling
 A small tool crawling data from school's website and writing it into Excel to track my study.
 
-To run this project, you have to install Python3, Pip and Selenium. 
+To run this project, you have to install Python3, Pip, Selenium and Chromedriver (up to your browser).
 
 You also need to change something in the file svlogin.py in order to fit your case.
 
