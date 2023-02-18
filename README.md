@@ -1,5 +1,5 @@
 # school-web-crawling
-A small tool crawling data from school's website and writing it into Excel to track my study.
+A small tool crawling data from school's website to track my study.
 
 ## Instalation
 
